@@ -3,7 +3,7 @@ const path = require('path') // on ajoute la librairie path
 
 const client = new CommandoClient({
     commandPrefix: '?',
-    owner: '613131993487507457',
+    owner: 'VOTRE-ID',
     disableMentions: 'everyone'
 });
 
